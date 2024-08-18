@@ -7,25 +7,29 @@
  * Hongkun Luo
 -->
 
-# SuperVINS: A visual-inertial SLAM framework integrated deep learning features
+# BRAIN-SuperVINS
 
 ![Static Badge](https://img.shields.io/badge/VINS-Image_IMU-red) ![Static Badge](https://img.shields.io/badge/Cpp-11-blue) ![Static Badge](https://img.shields.io/badge/DeepLearning-SuperPoint_LightGlue-red) ![Static Badge](https://img.shields.io/badge/ROS1-melodic-blue) ![Static Badge](https://img.shields.io/badge/BoW-DBoW3-red) ![Static Badge](https://img.shields.io/badge/WHU-BRAIN_LAB-red) ![Static Badge](https://img.shields.io/badge/luohongk-blue) ![Static Badge](https://img.shields.io/badge/Wuhan-China-green)
 
 <div align=center><img src="resources\SuperVINS.png" width =100%></div>
 
 # Notice
+
 <div align=center><img src="resources\about_code.png" width =100%></div>
 
 # News
+
 - 2024.8.7:add demo video,add training DBoW3.
 - 2024.7.31:Publish a preprint(Journal in submission).[Preprint](https://arxiv.org/abs/2407.21348): https://arxiv.org/abs/2407.21348
 
-
 # Demo
+
 ### GIF
+
 <div align=center><img src="resources\SuperVINS_demo.gif" width =100%></div>
 
 ### Video
+
 If you want to watch the full demo video, please click the [link](resources/video.mp4)
 
 # 1 Brief Introduction
@@ -160,4 +164,5 @@ python run.py
 ```
 
 # 5 Training DBoW3’s SuperPoint bag of words
+
 [link](https://github.com/luohongk/SuperVINS/)
